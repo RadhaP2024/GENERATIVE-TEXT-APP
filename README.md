@@ -40,3 +40,15 @@ Learning Outcomes
 Screenshot
 
 <img width="1104" height="497" alt="image" src="https://github.com/user-attachments/assets/1a8319cd-40d6-4b0e-b74d-a2a9bfe2365a" />
+
+Generative Text Enhancements
+
+    Add more word banks (emotions, weather, time)
+
+    Let users add their own words
+
+    Save favorite answers
+
+    Share answers on social media
+
+    Add text-to-speech
